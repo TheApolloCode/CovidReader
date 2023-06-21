@@ -1,4 +1,5 @@
-/*package com.covidreader.csvreader11;
+/*clasa facuta pentru a intelege sistemul de organizare in versiunea docker a SCDF
+package com.covidreader.csvreader11;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.cloud.task.configuration.EnableTask;
